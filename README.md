@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Bagi</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="coading" width="400" src="<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/51882c7e-4202-46eb-8b1a-28c8fa46e11c" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyabagi&label=Profile%20views&color=0e75b6&style=flat" alt="riyabagi" /> </p>
 
