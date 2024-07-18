@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya Bagi</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+<img align="right" alt="coading" width="400" src="<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyabagi&label=Profile%20views&color=0e75b6&style=flat" alt="riyabagi" /> </p>
 
 - 🌱 I’m currently learning **Nodejs**
